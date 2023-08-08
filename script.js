@@ -199,7 +199,7 @@ document.getElementById("img13").addEventListener("click", (e) => {
 document.getElementById("interchangable").addEventListener("click", (e) => {
     e.preventDefault();
 
-    mainImg.src = "images/Junior_Richard_J.R._Smith.png";
+    mainImg.src = "Junior_Richard_J.R._Smith.png";
 
     document.getElementById("1").innerText = "Gender: " + "male";
 
